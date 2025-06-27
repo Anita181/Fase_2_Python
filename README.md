@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square)
 
 Este repositorio contiene todos los ejercicios realizados durante la Fase 2 de mi aprendizaje en programación con Python, enfocados en el análisis de datos usando la biblioteca `pandas`.
 
